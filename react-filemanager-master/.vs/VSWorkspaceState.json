@@ -1,14 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\public",
+    "\\build",
+    "\\build\\static",
     "\\src",
     "\\src\\Components",
+    "\\src\\Components\\Dialogs",
+    "\\src\\Components\\FileList",
     "\\src\\Components\\FileList\\FileListSublist",
-    "\\src\\Components\\Navbar",
-    "\\src\\Components\\Notification",
-    "\\src\\Reducers"
+    "\\src\\Components\\File\\FileSublist"
   ],
-  "SelectedNode": "\\src\\Reducers\\MainReducer.js",
+  "SelectedNode": "\\src\\Components\\FileList\\FileList.css",
   "PreviewInSolutionExplorer": false
 }

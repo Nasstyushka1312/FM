@@ -52,7 +52,7 @@ class ContextMenu extends Component {
                     }}
                     open={visible} 
                     onClose={ () => {} } 
-                    PaperProps={{ style: {width: 170} }}>
+                    PaperProps={{ style: {width: 206} }}>
                     { actionsComp }
                 </Menu>
             </div>
